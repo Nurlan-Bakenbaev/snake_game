@@ -3,8 +3,6 @@
 A classic **Snake Game** implemented in **Java** using the **Processing** framework.  
 The project demonstrates fundamental concepts of game loops, keyboard input handling, collision detection, and object-oriented programming.
 
----
-
 ## Features
 - Classic snake movement
 - Food spawning system
@@ -13,7 +11,6 @@ The project demonstrates fundamental concepts of game loops, keyboard input hand
 - Increasing difficulty as the snake grows
 
 
----
 
 ## Technologies Used
 - Java
